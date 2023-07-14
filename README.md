@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=#808000&height=300&section=header)
+![header](https://capsule-render.vercel.app/api?type=waving&color=808000&height=300&section=header)
 
 
 👾 임규리
