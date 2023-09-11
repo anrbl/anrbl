@@ -4,5 +4,5 @@
 👾
 <br/>
 <br/>
-  <div><img src="https://img.shields.io/badge/61DAFB?style=for-the-badge&logo=react&logoColor=black"></div>
+  [img src="https://img.shields.io/badge/61DAFB?style=for-the-badge&logo=react&logoColor=black"]
 </div>
